@@ -8,18 +8,21 @@ Filtering: Filter job listings based on various criteria such as location, salar
 Infinite Scroll: Utilize infinite scroll functionality to seamlessly load additional job listings as the user scrolls down.
 Redux State Management: Manage application state efficiently with Redux and Redux Toolkit.
 Responsive Design: Ensure a consistent user experience across different devices and screen sizes.
+
 Installation
-Clone the repository: git clone https://github.com/ArshadAnsari09/jobPortal.git
-Navigate to the project directory: cd job-filteration
-Install dependencies: npm install
+
+1. Clone the repository: git clone https://github.com/ArshadAnsari09/jobPortal.git
+2. Navigate to the project directory: cd job-filteration
+3. Install dependencies: npm install
 
 Usage
 To start the development server:
 npm start
 
 Dependencies
-React
-Redux
-Material-UI
-Axios
-React Infinite Scroll Component
+
+1. React,
+2. Redux
+3. Material-UI
+4. Axios
+5. React Infinite Scroll Component
